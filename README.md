@@ -1,0 +1,1 @@
+Recreation of the google homepage. First project from The Odin Project course.
